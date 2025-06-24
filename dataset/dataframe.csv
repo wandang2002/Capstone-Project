@@ -1,0 +1,161 @@
+line,country_id,length,max_speed,cost,success,country,income_level,region,gdp_growth,gdp_total,gdp_pc,rail_km,pop_thousands,pop_density,urban_rate
+Shanghai maglev train,CHN,30.5,431,1200.0,0.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Beiging-Shanghai,CHN,1318.0,350,34700.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Beijing–Guangzhou,CHN,2230.0,350,42350.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Hangzhou–Fuzhou–Shenzhen,CHN,1495.0,350,13312.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Huhanrong PDL,CHN,2078.0,350,30400.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Shanghai–Kunming,CHN,2066.0,350,46000.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Guangzhou–Kunming,CHN,1285.0,350,20200.0,0.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Suifenhe–Manzhouli,CHN,714.0,250,7272.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Qingdao–Yinchuan,CHN,1762.0,350,20675.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Beijing–Lanzhou,CHN,1526.0,350,27390.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Beijing–Harbin,CHN,1700.0,350,35000.0,0.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Eurasia Continental Bridge,CHN,3422.0,350,57000.0,1.0,China,Upper middle income,East Asia & Pacific,5.249557864,17800.0,12614.06174,109767.0,1410710.0,150.4200481,64.57
+Whoosh high-speed railway,IDN,142.8,350,7300.0,1.0,Indonesia,Upper middle income,East Asia & Pacific,5.048105771,1370.0,4876.314327,5483.0,281190.067,147.3301752,58.572
+Tokaido Shinkansen,JPN,515.4,285,2604.0,1.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+San'yō Shinkansen,JPN,553.7,300,16249.0,1.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Tōhoku Shinkansen,JPN,674.9,320,12838.0,1.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Jōetsu Shinkansen,JPN,269.5,275,3289.0,0.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Hokuriku Shinkansen,JPN,470.6,260,28000.0,1.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Kyushu Shinkansen,JPN,256.8,260,15410.0,1.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Nishi Kyushu Shinkansen,JPN,66.0,260,5700.0,0.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Hokkaido Shinkansen,JPN,148.8,260,4670.0,0.0,Japan,High income,East Asia & Pacific,1.679019523,4200.0,33766.52683,20087.4,124516.65,343.2784335,92.043
+Haramain HSR,SAU,435.0,300,16000.0,0.0,Saudi Arabia,High income,Middle East & North Africa,-0.754914811,1070.0,32093.9623,2939.0,33264.292,14.96737855,84.95
+Gyeongbu HSR,KOR,417.4,305,17700.0,1.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Jeolla Line,KOR,180.4,230,1430.0,1.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Honam HSR,KOR,249.2,305,7000.0,0.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Suseo–Pyeongtaek HSR,KOR,61.1,305,3200.0,1.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Gyeonggang Line,KOR,120.2,250,2842.0,0.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Jungbunaeryuk Line,KOR,92.7,230,775.0,0.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Jungang Line,KOR,185.4,250,4800.0,0.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Donghae Line,KOR,242.3,200,2500.0,0.0,Republic of Korea,High income,East Asia & Pacific,1.356733243,1710.0,33121.37129,4308.5,51712.619,529.4320594,81.456
+Taiwan HSR,TWN,351.0,300,16500.0,0.0,Taiwan,High income,East Asia & Pacific,3.1,793.2,34920.0,2025.0,23400.0,653.0,79.3
+Polatlı–Konya,TUR,212.0,250,330.0,1.0,Turkiye,Upper middle income,Europe & Central Asia,5.111168185,1120.0,13105.65857,10546.0,85325.965,110.4165807,77.463
+Ankara–Istanbul,TUR,313.0,250,3300.0,1.0,Turkiye,Upper middle income,Europe & Central Asia,5.111168185,1120.0,13105.65857,10546.0,85325.965,110.4165807,77.463
+Konya–Yenice railway,TUR,102.0,200,102.4,1.0,Turkiye,Upper middle income,Europe & Central Asia,5.111168185,1120.0,13105.65857,10546.0,85325.965,110.4165807,77.463
+Ankara–Sivas,TUR,394.0,250,1300.0,0.0,Turkiye,Upper middle income,Europe & Central Asia,5.111168185,1120.0,13105.65857,10546.0,85325.965,110.4165807,77.463
+Tashkent–Bukhara,UZB,600.0,250,667.0,0.0,Uzbekistan,Lower middle income,Europe & Central Asia,6.291416351,102.0,2849.514611,4732.0,35652.307,79.2892237,50.532
+Al Boraq,MAR,186.0,320,2400.0,0.0,Morocco,Lower middle income,Middle East & North Africa,3.403341301,144.0,3771.446289,2295.0,37712.505,83.64119202,65.121
+Western Railway,AUT,243.0,230,12216.0,0.0,Austria,High income,Europe & Central Asia,-0.954962367,512.0,56033.57379,4962.0,9131.761,109.5716311,59.53
+New Lower Inn Valley Railway,AUT,40.2,250,2602.0,1.0,Austria,High income,Europe & Central Asia,-0.954962367,512.0,56033.57379,4962.0,9131.761,109.5716311,59.53
+HSL 1,BEL,88.0,300,1636.0,1.0,Belgium,High income,Europe & Central Asia,1.251700632,645.0,54700.90932,3612.0,11787.423,383.0330557,98.189
+HSL 2+line 36N,BEL,94.8,300,2650.0,0.0,Belgium,High income,Europe & Central Asia,1.251700632,645.0,54700.90932,3612.0,11787.423,383.0330557,98.189
+HSL 3,BEL,42.0,260,2085.0,0.0,Belgium,High income,Europe & Central Asia,1.251700632,645.0,54700.90932,3612.0,11787.423,383.0330557,98.189
+HSL 4,BEL,36.0,300,1152.0,1.0,Belgium,High income,Europe & Central Asia,1.251700632,645.0,54700.90932,3612.0,11787.423,383.0330557,98.189
+Øresund Line,DNK,16.0,200,3700.0,0.0,Denmark,High income,Europe & Central Asia,2.495184331,407.0,68453.87693,2131.0,5946.952,147.575925,88.495
+Copenhagen–Ringsted Line,DNK,60.0,200,1830.0,0.0,Denmark,High income,Europe & Central Asia,2.495184331,407.0,68453.87693,2131.0,5946.952,147.575925,88.495
+Kerava–Lahti railway,FIN,75.7,220,381.0,0.0,Finland,High income,Europe & Central Asia,-1.163962815,296.0,52925.68976,5918.0,5583.911,18.27980932,85.773
+Paris–Bordeaux railway,FRA,331.08,220,8989.0,1.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Sud-Est,FRA,409.0,300,4033.0,1.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Atlantique,FRA,284.0,300,8182.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Rhône-Alpes,FRA,115.0,300,2304.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Nord,FRA,333.0,300,3249.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Interconnexion Est,FRA,90.0,270,1819.0,1.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Méditerranée,FRA,216.0,320,4379.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Est,FRA,406.0,320,2420.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Rhin-Rhône,FRA,140.0,320,2650.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+Perpignan–Barcelona HSR,FRA,17.1,300,6914.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Sud Europe Atlantique,FRA,340.0,320,8989.0,1.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+LGV Bretagne-Pays de la Loire,FRA,214.0,320,3803.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+Contournement Nîmes – Montpellier,FRA,80.0,220,2627.0,0.0,France,High income,Europe & Central Asia,0.936487503,3050.0,44690.93454,27716.0,68287.487,124.3067206,81.777
+Berlin–Hamburg Railway,DEU,284.1,230,2650.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Wanne-Eickel–Hamburg railway,DEU,355.0,200,1728.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Augsburg–Nördlingen railway,DEU,36.5,200,562.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Cologne–Duisburg railway,DEU,64.0,200,202.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hamm–Minden railway,DEU,112.0,200,1290.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Würzburg–Aschaffenburg railway,DEU,89.3,200,507.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hanover–Minden railway,DEU,64.4,200,742.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Dortmund–Hamm railway,DEU,31.0,200,1498.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hanover–Hamburg railway,DEU,355.5,200,747.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Waghäusel Saalbach–Graben-Neudorf railway,DEU,7.94,200,91.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hanover–Würzburg,DEU,327.0,250,8009.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Mannheim–Stuttgart,DEU,99.0,250,2555.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Rhine Railway,DEU,186.45,200,16365.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Ulm–Augsburg railway (old line),DEU,85.0,200,979.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Frankfurt–Göttingen railway,DEU,19.0,200,135.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hanover–Berlin,DEU,258.0,280,2996.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Nuremberg–Würzburg railway,DEU,102.2,200,6569.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Mannheim–Frankfurt railway,DEU,74.8,200,1498.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Cologne–Frankfurt,DEU,180.0,300,6914.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Cologne–Aachen,DEU,39.2,250,451.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Berlin–Halle railway,DEU,161.6,200,2189.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Trebnitz–Leipzig railway,DEU,81.2,200,936.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Nuremberg–Ingolstadt,DEU,77.5,300,4264.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Hamm–Warburg railway,DEU,131.0,200,1509.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Munich–Augsburg railway,DEU,61.9,230,864.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Leipzig–Dresden railway,DEU,60.0,200,864.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Erfurt–Leipzig/Halle,DEU,123.0,300,3419.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Nuremberg–Erfurt,DEU,107.0,300,6020.0,0.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+Wendlingen–Ulm,DEU,59.5,250,4267.0,1.0,Germany,High income,Europe & Central Asia,-0.26643841,4530.0,54343.22651,33401.0,83280.0,239.861418,77.765
+P.A.Th.E./P.,GRC,160.0,200,101.0,1.0,Greece,High income,Europe & Central Asia,2.332123883,243.0,23400.72788,2339.0,10405.588,80.96882855,80.673
+Florence–Rome,ITA,254.0,250,10660.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Turin–Milan,ITA,148.3,300,2973.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Padua–Venice,ITA,25.0,220,538.0,0.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Treviglio - Brescia,ITA,39.6,250,2362.0,0.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Milan–Bologna,ITA,214.6,300,7952.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Naples–Salerno,ITA,29.0,250,1092.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Verona–Bologna railway,ITA,115.0,200,1267.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Rome–Naples,ITA,204.6,300,7952.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Bologna–Ancona railway,ITA,153.0,200,550.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Adriatic railway,ITA,594.0,200,5762.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+Pisa–Rome railway,ITA,91.0,200,96.0,1.0,Italy,High income,Europe & Central Asia,0.697632994,2300.0,39003.3161,17305.2,58993.475,199.5592689,71.973
+HSL-Zuid,NLD,125.0,300,7952.0,0.0,Netherlands,High income,Europe & Central Asia,0.074560722,1150.0,64572.00596,3041.0,17877.117,525.7196911,93.179
+Lelystad–Zwolle railway,NLD,50.0,160,1267.0,0.0,Netherlands,High income,Europe & Central Asia,0.074560722,1150.0,64572.00596,3041.0,17877.117,525.7196911,93.179
+Gardermoen Line,NOR,64.0,210,989.0,1.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Langset-Kleverud,NOR,17.0,200,903.0,0.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Farriseidet–Porsgrunn,NOR,23.5,200,872.0,1.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Kobbervikdalen–Holm,NOR,24.7,200,742.0,0.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Nykirke – Holm,NOR,14.1,200,653.0,1.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Tønsberg – Barkåker,NOR,7.7,200,148.0,1.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Follo Line,NOR,22.0,200,3641.0,0.0,Norway,High income,Europe & Central Asia,0.479647246,485.0,87925.09442,3885.0,5519.594,14.98099487,83.995
+Warsaw–Gdańsk railway,POL,150.0,200,2535.0,0.0,Poland,High income,Europe & Central Asia,0.138832755,809.0,22056.66617,18620.0,36687.353,120.2971316,60.218
+Grodzisk Mazowiecki–Zawiercie railway,POL,135.047,200,170.0,1.0,Poland,High income,Europe & Central Asia,0.138832755,809.0,22056.66617,18620.0,36687.353,120.2971316,60.218
+"Santa Apolónia, Lisbon–Campanhã, Porto",PRT,332.0,220,5647.0,0.0,Portugal,High income,Europe & Central Asia,2.526281108,289.0,27331.20949,2527.053,10578.174,113.9049578,67.906
+"Santa Apolónia, Lisbon–Braga",PRT,389.0,220,1728.0,1.0,Portugal,High income,Europe & Central Asia,2.526281108,289.0,27331.20949,2527.053,10578.174,113.9049578,67.906
+Linha do Norte e Linha do Sul,PRT,627.0,220,5647.0,0.0,Portugal,High income,Europe & Central Asia,2.526281108,289.0,27331.20949,2527.053,10578.174,113.9049578,67.906
+Linha do Sul,PRT,273.6,220,722.0,0.0,Portugal,High income,Europe & Central Asia,2.526281108,289.0,27331.20949,2527.053,10578.174,113.9049578,67.906
+Linha de Évora,PRT,26.164,200,55.0,0.0,Portugal,High income,Europe & Central Asia,2.526281108,289.0,27331.20949,2527.053,10578.174,113.9049578,67.906
+Saint Petersburg–Moscow railway,RUS,650.0,250,16550.0,0.0,Russian Federation,High income,Europe & Central Asia,3.6,2020.0,13817.0459,85544.0,143826.13,8.807356534,75.331
+Riihimäki–Saint Petersburg railway,RUS,197.0,200,2344.0,1.0,Russian Federation,High income,Europe & Central Asia,3.6,2020.0,13817.0459,85544.0,143826.13,8.807356534,75.331
+Budapest–Belgrade railway,SRB,150.0,200,1728.0,0.0,Serbia,Upper middle income,Europe & Central Asia,3.847471128,81.34266075,12281.50585,3348.077,6623.183,79.25376382,57.113
+Madrid–Seville,ESP,471.8,300,7836.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Levante,ESP,603.0,300,9381.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Barcelona,ESP,620.9,300,10333.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Toledo,ESP,74.0,300,428.0,1.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Málaga,ESP,154.5,300,2915.0,1.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Galicia,ESP,415.7,300,10372.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Perpignan–Barcelona,ESP,175.5,300,5531.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Alcázar de San Juan–Cádiz railway,ESP,158.1,220,1382.0,1.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Atlantic Axis,ESP,155.6,200,3457.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Asturias,ESP,342.3,300,11294.0,1.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Valencia−Sant Vicenç de Calders railway,ESP,238.0,220,409.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Andalusian Corridor,ESP,125.7,300,1613.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Alcázar de San Juan–Jaén,ESP,16.7,220,341.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Madrid–Extremadura high-speed rail line,ESP,192.6,200,4264.0,0.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+LAV Venta de Baños-Burgos-Vitoria (in Spanish),ESP,86.0,300,874.0,1.0,Spain,High income,Europe & Central Asia,2.675663493,1620.0,33509.0128,15963.0,48347.91,95.57298272,81.552
+Malmö–Katrineholm,SWE,336.0,200,1539.0,1.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Stockholm central–Gothenburg central,SWE,312.0,200,8277.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Lund central–Gothenburg central,SWE,232.0,200,13339.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Stockholm central–Gavle,SWE,142.0,200,66.0,1.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Gavle–Enånger,SWE,105.0,200,170.0,1.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Ådalen Line,SWE,30.0,200,632.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Svealand Line,SWE,86.0,200,421.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Mälaren Line,SWE,155.0,200,2688.0,1.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Bothnia Line,SWE,190.0,250,1581.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Norway/Vänern Line,SWE,80.0,200,230.0,1.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Haparanda Line,SWE,43.0,250,484.0,0.0,Sweden,High income,Europe & Central Asia,-0.310670185,585.0,55516.83648,9714.0,10536.632,25.74872569,88.738
+Solothurn–Wanzwil railway,CHE,12.0,200,1307.0,0.0,Switzerland,High income,Europe & Central Asia,0.716066869,885.0,99564.71003,4122.25096,8888.093,222.1505997,74.202
+Mattstetten–Rothrist new line,CHE,45.0,200,2053.0,1.0,Switzerland,High income,Europe & Central Asia,0.716066869,885.0,99564.71003,4122.25096,8888.093,222.1505997,74.202
+Lötschberg Base Tunnel,CHE,34.0,250,3540.0,0.0,Switzerland,High income,Europe & Central Asia,0.716066869,885.0,99564.71003,4122.25096,8888.093,222.1505997,74.202
+Gotthard Base Tunnel,CHE,57.0,200,14912.0,0.0,Switzerland,High income,Europe & Central Asia,0.716066869,885.0,99564.71003,4122.25096,8888.093,222.1505997,74.202
+Ceneri Base Tunnel,CHE,15.4,200,2580.0,1.0,Switzerland,High income,Europe & Central Asia,0.716066869,885.0,99564.71003,4122.25096,8888.093,222.1505997,74.202
+Great Western Main Line,GBR,190.2,201,3768.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+South Wales Main Line,GBR,34.5,201,67.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+East Coast Main Line,GBR,552.7,201,444.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+Cross Country Route,GBR,293.0,201,4669.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+West Coast Main Line,GBR,640.0,201,11573.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+Fawkham Junction–Channel Tunnel,GBR,74.0,300,2557.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+"St Pancras, London–Ebbsfleet",GBR,39.4,230,3364.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+Midland Main Line,GBR,229.0,201,2153.0,1.0,United Kingdom,High income,Europe & Central Asia,0.339966158,3380.0,49463.85546,16178.56,68350.0,280.2091514,84.642
+Northeast Corridor,USA,735.0,240,2330.0,1.0,United States,High income,North America,2.887556009,27700.0,82769.41221,148553.3473,334914.895,36.43337805,83.298
+Brightline,USA,378.0,201,6500.0,0.0,United States,High income,North America,2.887556009,27700.0,82769.41221,148553.3473,334914.895,36.43337805,83.298
