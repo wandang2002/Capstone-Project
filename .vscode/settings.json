@@ -1,0 +1,22 @@
+{
+    // 1) Auto‐format on save
+    "editor.formatOnSave": true,
+    // 2) Run any “fixable” lints on save
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    // 3) Enable Python linting
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    // or "python.linting.pylintEnabled": true,
+    // 4) Use Black as the auto‐formatter
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "88"
+    ],
+    // 5) (Optional) Tweak flake8’s max line length to match Black
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ]
+}
